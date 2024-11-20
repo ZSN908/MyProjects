@@ -1,0 +1,38 @@
+                                    ---------------------------
+                                    [News App for Top Headlines]
+                                    ---------------------------
+1. [] 'Splash screen' with name and circular lottie animation
+    --- [] loading for fetching api data
+
+2. [] 'News screen' for showing news starts with horizontal list then below vertical list
+    --- [] App Bar of News screen like as | 9 dot      News      3 dot |
+    --- [] show apis fetched and filtered data as selected news channel by 3 dot button 
+        --- [] 9 dot button to got to Categories screen
+        --- [] 3 dot button for drop down list of news channels to click and filter news
+
+3. [] 'Categorise screen' starts with categories buttons horizontal list with below vertical list of filte red news
+
+4. [] list cards contains news title, news channel name and date
+
+5. [] they created separated scrolling for horizontal and vertical cards but i will make it combine.
+
+                                No dead line but 3 days are too much
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
